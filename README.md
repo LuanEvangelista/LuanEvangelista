@@ -6,7 +6,7 @@ Sou Luan, estou me formado em [Engenharia Da computação](https://engenhariadec
 
 🌱 Atualmente, estou me aprofundando linguagens de programação JS,Python.
 
-⚡ Curiosidade: Também tenho experiência em desenvolvimento de sistemas, bastante interesse em aprender linguagens e em programação orientada em C#
+⚡ Curiosidade: Também bastante interesse em aprender linguagens e em programação orientada em C#
 
 💬 Pergunte-me sobre qualquer coisa, eu realmente gosto de conhecer pessoas novas  e conversar
 
