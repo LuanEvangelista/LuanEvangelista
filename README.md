@@ -1,6 +1,6 @@
 ## Olá a todos 👋
 
-Sou Luan, estou me formado em [Engenharia Da computação](https://engenhariadecomputacao.saomateus.ufes.br/curso) na [UFES](https://www.ufes.br/campus-de-são-mateus).
+Sou Luan, estou me formando em [Engenharia Da computação](https://engenhariadecomputacao.saomateus.ufes.br/curso) na [UFES](https://www.ufes.br/campus-de-são-mateus).
 
 🔭 Atualmente, estou em busca de experiencia no mercado de trabalho na area de TI.
 
