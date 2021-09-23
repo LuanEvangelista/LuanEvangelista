@@ -10,7 +10,7 @@ Sou Luan, estou me formado em Engenharia da Computaçao ([Engenharia Da computa�
 
 💬 Pergunte-me sobre qualquer coisa, eu realmente gosto de conhecer pessoas novas  e conversar
 
-📫 Como entrar em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/luanevangelista)](https://www.linkedin.com/in/luanevangelista) ou [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luanp.e)](https://www.instagram.com/luanp.e))
+📫 Como entrar em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/luanevangelista)](https://www.linkedin.com/in/luanevangelista) ou  [![Instagram Badge](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luanp.e)](https://www.instagram.com/luanp.e)
 
 
 Sinta-se à vontade para entrar em contato comigo! 👨🏽‍💻
