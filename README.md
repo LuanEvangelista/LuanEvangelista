@@ -4,8 +4,6 @@ Sou Luan, estou me formando em [Engenharia Da computação](https://engenhariade
 
 🔭 Atualmente, estou em busca de experiencia no mercado de trabalho na area de TI.
 
-🌱 Atualmente, estou me aprofundando linguagens de programação JS,Python.
-
 ⚡ Curiosidade: Também bastante interesse em aprender linguagens e em programação orientada em C#
 
 💬 Pergunte-me sobre qualquer coisa, eu realmente gosto de conhecer pessoas novas  e conversar
