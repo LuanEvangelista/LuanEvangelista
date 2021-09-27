@@ -4,9 +4,9 @@ Sou Luan, estou me formando em [Engenharia Da computação](https://engenhariade
 
 🔭 Atualmente, estou em busca de experiencia no mercado de trabalho na area de TI.
 
-⚡ Curiosidade: Também bastante interesse em aprender linguagens e em programação orientada em C#
+⚡ Curiosidade: Também tenho bastante interesse em aprender linguagens e em programação orientada em C#
 
-💬 Pergunte-me sobre qualquer coisa, eu realmente gosto de conhecer pessoas novas  e conversar
+💬 Pergunte-me sobre qualquer coisa, eu realmente gosto de conhecer pessoas novas e conversar
 
 📫 Como entrar em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/luanevangelista)](https://www.linkedin.com/in/luanevangelista) ou  [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luanp.e)](https://www.instagram.com/luanp.e)
 
