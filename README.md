@@ -1,6 +1,6 @@
 ## Olá a todos 👋
 
-Olá, eu sou o Luan, um recém-formado em Tecnologia de Ciência dos Dados em busca de experiência no mercado de trabalho na área de TI. Meu interesse por tecnologia começou quando eu estava no ensino médio e desde então eu tenho me dedicado a aprender e aprimorar minhas habilidades em programação.
+Olá, eu sou o Luan, Estou formando em Tecnologia de Ciência dos Dados em busca de experiência no mercado de trabalho na área de TI. Meu interesse por tecnologia começou quando eu estava no ensino médio e desde então eu tenho me dedicado a aprender e aprimorar minhas habilidades em programação.
 
 Este repositório do GitHub é onde compartilho meus projetos e experiências na área de TI. Aqui, você encontrará projetos de programação em diferentes linguagens e projetos pessoais que estou trabalhando.
 
